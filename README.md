@@ -1,10 +1,10 @@
 Este archivo SQL sirve para crear una pequeña base de datos local (usando PostgreSQL) que contiene una lista de palabras clave relacionadas con los temas académicos que aparecen en la lista de estudiantes.
 
-#¿Para qué sirve esto?
+¿Para qué sirve esto?
 Imagina que tienes una lista de estudiantes y cada uno está trabajando en un tema diferente: Matemáticas, Física, Biología, Historia, etc.
 Este archivo prepara una tabla en la base de datos donde se guardan palabras importantes (llamadas "palabras clave") que ayudan a identificar o describir mejor cada uno de esos temas.
 
-##Por ejemplo:
+Por ejemplo:
 
 Para el tema "Matemáticas", palabras clave podrían ser: números, álgebra, geometría, cálculo.
 Para "Biología – Zoología", podrían ser: animales, especies, hábitat, vertebrados.
